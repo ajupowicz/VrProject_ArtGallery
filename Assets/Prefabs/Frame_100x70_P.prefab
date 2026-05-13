@@ -763,7 +763,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: a7b99a3f56097284ab0c3be8d039708b, type: 3}
       propertyPath: m_Name
-      value: Rama10-7 (1)
+      value: Rama10-7
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
