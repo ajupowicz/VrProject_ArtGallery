@@ -20,8 +20,8 @@ public class ExhibitInfo : MonoBehaviour
 
     void Start()
     {
-        // This function runs automatically when the game starts
-        UpdatePlaque();
+        // This function runs automatically when the game starts 
+        UpdatePlaque(); // Initialize the plaque with the current exhibit information
     }
 
     // Separate function to update texts (useful for potential future features
