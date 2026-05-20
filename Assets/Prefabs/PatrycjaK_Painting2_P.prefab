@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!1001 &4896378473690911803
+--- !u!1001 &3858515461283286710
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -8,69 +8,77 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 1405144412648669538, guid: dd4f5b070d11b1b458f51d937102ed35, type: 3}
+    - target: {fileID: 407944719541026374, guid: 290398d187196b64cb4209240975f003, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
       objectReference: {fileID: 2100000, guid: 3647b4ec32572724c9085c7bc4b5af51, type: 2}
-    - target: {fileID: 3782885556170129270, guid: dd4f5b070d11b1b458f51d937102ed35, type: 3}
+    - target: {fileID: 1527534145247329117, guid: 290398d187196b64cb4209240975f003, type: 3}
+      propertyPath: m_Name
+      value: PatrycjaK_Painting2_P
+      objectReference: {fileID: 0}
+    - target: {fileID: 1845752038582066980, guid: 290398d187196b64cb4209240975f003, type: 3}
       propertyPath: m_text
       value: Szept po Burzy
       objectReference: {fileID: 0}
-    - target: {fileID: 6167743574803775208, guid: dd4f5b070d11b1b458f51d937102ed35, type: 3}
+    - target: {fileID: 4025412338875227900, guid: 290398d187196b64cb4209240975f003, type: 3}
       propertyPath: m_text
       value: "Obraz przedstawia delikatne kwiaty tu\u017C po deszczu, zatrzymane
         w chwili ciszy mi\u0119dzy ko\u0144cem burzy a powrotem \u015Bwiat\u0142a.
         Pastelowe barwy i mi\u0119kkie poci\u0105gni\u0119cia farby olejnej tworz\u0105
         atmosfer\u0119 spokoju, krucho\u015Bci i przemijania. Krople wody osiadaj\u0105ce
         na p\u0142atkach symbolizuj\u0105 emocje pozostaj\u0105ce po trudnych do\u015Bwiadczeniach
-        - subtelne, lecz wci\u0105\u017C obecne."
+        - subtelne, lecz wci\u0105\u017C obecne.\r\n"
       objectReference: {fileID: 0}
-    - target: {fileID: 7097999789131285538, guid: dd4f5b070d11b1b458f51d937102ed35, type: 3}
+    - target: {fileID: 4617806047573816849, guid: 290398d187196b64cb4209240975f003, type: 3}
+      propertyPath: m_text
+      value: Patrycja Krzykawska
+      objectReference: {fileID: 0}
+    - target: {fileID: 8618118816965851945, guid: 290398d187196b64cb4209240975f003, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 2.5020158
+      value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 7097999789131285538, guid: dd4f5b070d11b1b458f51d937102ed35, type: 3}
+    - target: {fileID: 8618118816965851945, guid: 290398d187196b64cb4209240975f003, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.566
+      value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 7097999789131285538, guid: dd4f5b070d11b1b458f51d937102ed35, type: 3}
+    - target: {fileID: 8618118816965851945, guid: 290398d187196b64cb4209240975f003, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 4.5266457
+      value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 7097999789131285538, guid: dd4f5b070d11b1b458f51d937102ed35, type: 3}
+    - target: {fileID: 8618118816965851945, guid: 290398d187196b64cb4209240975f003, type: 3}
       propertyPath: m_LocalRotation.w
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 7097999789131285538, guid: dd4f5b070d11b1b458f51d937102ed35, type: 3}
+    - target: {fileID: 8618118816965851945, guid: 290398d187196b64cb4209240975f003, type: 3}
       propertyPath: m_LocalRotation.x
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 7097999789131285538, guid: dd4f5b070d11b1b458f51d937102ed35, type: 3}
+    - target: {fileID: 8618118816965851945, guid: 290398d187196b64cb4209240975f003, type: 3}
       propertyPath: m_LocalRotation.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 7097999789131285538, guid: dd4f5b070d11b1b458f51d937102ed35, type: 3}
+    - target: {fileID: 8618118816965851945, guid: 290398d187196b64cb4209240975f003, type: 3}
       propertyPath: m_LocalRotation.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 7097999789131285538, guid: dd4f5b070d11b1b458f51d937102ed35, type: 3}
+    - target: {fileID: 8618118816965851945, guid: 290398d187196b64cb4209240975f003, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 7097999789131285538, guid: dd4f5b070d11b1b458f51d937102ed35, type: 3}
+    - target: {fileID: 8618118816965851945, guid: 290398d187196b64cb4209240975f003, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 7097999789131285538, guid: dd4f5b070d11b1b458f51d937102ed35, type: 3}
+    - target: {fileID: 8618118816965851945, guid: 290398d187196b64cb4209240975f003, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 9185521139793586503, guid: dd4f5b070d11b1b458f51d937102ed35, type: 3}
-      propertyPath: m_Name
-      value: Frame_100x100_P Variant Variant
+    - target: {fileID: 9157987509377990099, guid: 290398d187196b64cb4209240975f003, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: dd4f5b070d11b1b458f51d937102ed35, type: 3}
+  m_SourcePrefab: {fileID: 100100000, guid: 290398d187196b64cb4209240975f003, type: 3}
