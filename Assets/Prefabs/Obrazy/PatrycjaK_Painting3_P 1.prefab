@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &89544549103037182
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 387634051370006565, guid: d44280cb3e83fad449e442d90805a0d9, type: 3}
+      propertyPath: m_text
+      value: Patrycja Krzykawska
+      objectReference: {fileID: 0}
+    - target: {fileID: 2161766995079347217, guid: d44280cb3e83fad449e442d90805a0d9, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 2f9812d8de5fddc44a9dd82484bef171, type: 2}
+    - target: {fileID: 4179255345323655685, guid: d44280cb3e83fad449e442d90805a0d9, type: 3}
+      propertyPath: m_text
+      value: "Procesja Pot\u0119pionych"
+      objectReference: {fileID: 0}
+    - target: {fileID: 4774338501810770927, guid: d44280cb3e83fad449e442d90805a0d9, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 18
+      objectReference: {fileID: 0}
+    - target: {fileID: 6347835617123156891, guid: d44280cb3e83fad449e442d90805a0d9, type: 3}
+      propertyPath: m_text
+      value: "Mroczna scena ukazuje \u015Bwiat pogr\u0105\u017Cony w rozpadzie, gdzie
+        groteskowe postacie otaczaj\u0105 kobiet\u0119 zatracon\u0105 mi\u0119dzy
+        cierpieniem a ob\u0142\u0119dem. Ci\u0119\u017Cka, niemal brudna kolorystyka
+        oraz ekspresyjna faktura farby wzmacniaj\u0105 poczucie niepokoju i beznadziei.
+        Obraz mo\u017Cna odczytywa\u0107 jako wizj\u0119 ludzkich l\u0119k\xF3w,
+        winy oraz upadku cywilizacji."
+      objectReference: {fileID: 0}
+    - target: {fileID: 7998702955058788689, guid: d44280cb3e83fad449e442d90805a0d9, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -3.848
+      objectReference: {fileID: 0}
+    - target: {fileID: 7998702955058788689, guid: d44280cb3e83fad449e442d90805a0d9, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.663
+      objectReference: {fileID: 0}
+    - target: {fileID: 7998702955058788689, guid: d44280cb3e83fad449e442d90805a0d9, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 4.1909747
+      objectReference: {fileID: 0}
+    - target: {fileID: 7998702955058788689, guid: d44280cb3e83fad449e442d90805a0d9, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7998702955058788689, guid: d44280cb3e83fad449e442d90805a0d9, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7998702955058788689, guid: d44280cb3e83fad449e442d90805a0d9, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7998702955058788689, guid: d44280cb3e83fad449e442d90805a0d9, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7998702955058788689, guid: d44280cb3e83fad449e442d90805a0d9, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7998702955058788689, guid: d44280cb3e83fad449e442d90805a0d9, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7998702955058788689, guid: d44280cb3e83fad449e442d90805a0d9, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8284853142062781492, guid: d44280cb3e83fad449e442d90805a0d9, type: 3}
+      propertyPath: m_Name
+      value: Frame_100x100_P (2) Variant
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: d44280cb3e83fad449e442d90805a0d9, type: 3}

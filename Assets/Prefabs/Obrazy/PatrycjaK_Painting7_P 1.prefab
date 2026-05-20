@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &8718799588552302271
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 3430650842014475348, guid: f7a8918a29a180b45ad1267ee486aec1, type: 3}
+      propertyPath: m_text
+      value: Fragmenty Florencji
+      objectReference: {fileID: 0}
+    - target: {fileID: 5243975830995659107, guid: f7a8918a29a180b45ad1267ee486aec1, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: c446ab5be6c3ef9438d3f867bf46f387, type: 2}
+    - target: {fileID: 5612258448526367677, guid: f7a8918a29a180b45ad1267ee486aec1, type: 3}
+      propertyPath: m_text
+      value: Patrycja Krzykawska
+      objectReference: {fileID: 0}
+    - target: {fileID: 5832030177178019224, guid: f7a8918a29a180b45ad1267ee486aec1, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -13
+      objectReference: {fileID: 0}
+    - target: {fileID: 8245616402808201394, guid: f7a8918a29a180b45ad1267ee486aec1, type: 3}
+      propertyPath: m_Name
+      value: Frame_100x70_P (2) Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 8335825389890226126, guid: f7a8918a29a180b45ad1267ee486aec1, type: 3}
+      propertyPath: m_text
+      value: "Kubistyczna interpretacja w\u0142oskiego miasta przedstawia architektur\u0119
+        rozbit\u0105 na geometryczne formy i ostre linie perspektywy. O\u0142\xF3wkowa
+        faktura po\u0142\u0105czona z ciep\u0142ymi odcieniami ochry i szaro\u015Bci
+        tworzy wra\u017Cenie jednoczesnego porz\u0105dku i chaosu. Obraz ukazuje,
+        jak pami\u0119\u0107 o miejscach mo\u017Ce zosta\u0107 zdeformowana przez
+        emocje i spos\xF3b postrzegania przestrzeni.\r\n"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8692017724123929766, guid: f7a8918a29a180b45ad1267ee486aec1, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.046
+      objectReference: {fileID: 0}
+    - target: {fileID: 8692017724123929766, guid: f7a8918a29a180b45ad1267ee486aec1, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.346
+      objectReference: {fileID: 0}
+    - target: {fileID: 8692017724123929766, guid: f7a8918a29a180b45ad1267ee486aec1, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 4.314
+      objectReference: {fileID: 0}
+    - target: {fileID: 8692017724123929766, guid: f7a8918a29a180b45ad1267ee486aec1, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8692017724123929766, guid: f7a8918a29a180b45ad1267ee486aec1, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8692017724123929766, guid: f7a8918a29a180b45ad1267ee486aec1, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8692017724123929766, guid: f7a8918a29a180b45ad1267ee486aec1, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8692017724123929766, guid: f7a8918a29a180b45ad1267ee486aec1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8692017724123929766, guid: f7a8918a29a180b45ad1267ee486aec1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8692017724123929766, guid: f7a8918a29a180b45ad1267ee486aec1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: f7a8918a29a180b45ad1267ee486aec1, type: 3}
