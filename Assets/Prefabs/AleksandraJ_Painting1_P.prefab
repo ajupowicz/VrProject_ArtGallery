@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &1282595509952564576
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 852638688945987892, guid: f7a8918a29a180b45ad1267ee486aec1, type: 3}
+      propertyPath: title
+      value: Po drugiej stronie
+      objectReference: {fileID: 0}
+    - target: {fileID: 852638688945987892, guid: f7a8918a29a180b45ad1267ee486aec1, type: 3}
+      propertyPath: author
+      value: Aleksandra Jupowicz
+      objectReference: {fileID: 0}
+    - target: {fileID: 852638688945987892, guid: f7a8918a29a180b45ad1267ee486aec1, type: 3}
+      propertyPath: description
+      value: "Rysunek wykonany w\u0119glem przedstawia tajemnicz\u0105 posta\u0107
+        w ca\u0142o\u015Bci spowit\u0105 w ciemne, g\u0119sto pofa\u0142dowane sukno.
+        Ostry kontrast g\u0142\u0119bokiej czerni i bieli nadaje pracy dramatyczny,
+        niepokoj\u0105cy charakter, ca\u0142kowicie ukrywaj\u0105c to\u017Csamo\u015B\u0107
+        postaci."
+      objectReference: {fileID: 0}
+    - target: {fileID: 3430650842014475348, guid: f7a8918a29a180b45ad1267ee486aec1, type: 3}
+      propertyPath: m_text
+      value: Po drugiej stronie
+      objectReference: {fileID: 0}
+    - target: {fileID: 5243975830995659107, guid: f7a8918a29a180b45ad1267ee486aec1, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 4e9c8a77fd872304295543eebb003a42, type: 2}
+    - target: {fileID: 5612258448526367677, guid: f7a8918a29a180b45ad1267ee486aec1, type: 3}
+      propertyPath: m_text
+      value: Aleksandra Jupowicz
+      objectReference: {fileID: 0}
+    - target: {fileID: 5832030177178019224, guid: f7a8918a29a180b45ad1267ee486aec1, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 33
+      objectReference: {fileID: 0}
+    - target: {fileID: 8245616402808201394, guid: f7a8918a29a180b45ad1267ee486aec1, type: 3}
+      propertyPath: m_Name
+      value: AleksandraJ_Painting1_P
+      objectReference: {fileID: 0}
+    - target: {fileID: 8335825389890226126, guid: f7a8918a29a180b45ad1267ee486aec1, type: 3}
+      propertyPath: m_text
+      value: "Rysunek wykonany w\u0119glem przedstawia tajemnicz\u0105 posta\u0107
+        w ca\u0142o\u015Bci spowit\u0105 w ciemne, g\u0119sto pofa\u0142dowane sukno.
+        Ostry kontrast g\u0142\u0119bokiej czerni i bieli nadaje pracy dramatyczny,
+        niepokoj\u0105cy charakter, ca\u0142kowicie ukrywaj\u0105c to\u017Csamo\u015B\u0107
+        postaci."
+      objectReference: {fileID: 0}
+    - target: {fileID: 8692017724123929766, guid: f7a8918a29a180b45ad1267ee486aec1, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -2.422
+      objectReference: {fileID: 0}
+    - target: {fileID: 8692017724123929766, guid: f7a8918a29a180b45ad1267ee486aec1, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.27
+      objectReference: {fileID: 0}
+    - target: {fileID: 8692017724123929766, guid: f7a8918a29a180b45ad1267ee486aec1, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 1.53
+      objectReference: {fileID: 0}
+    - target: {fileID: 8692017724123929766, guid: f7a8918a29a180b45ad1267ee486aec1, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8692017724123929766, guid: f7a8918a29a180b45ad1267ee486aec1, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8692017724123929766, guid: f7a8918a29a180b45ad1267ee486aec1, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8692017724123929766, guid: f7a8918a29a180b45ad1267ee486aec1, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8692017724123929766, guid: f7a8918a29a180b45ad1267ee486aec1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8692017724123929766, guid: f7a8918a29a180b45ad1267ee486aec1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8692017724123929766, guid: f7a8918a29a180b45ad1267ee486aec1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: f7a8918a29a180b45ad1267ee486aec1, type: 3}

@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &2078931421617136518
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 3430650842014475348, guid: f7a8918a29a180b45ad1267ee486aec1, type: 3}
+      propertyPath: m_text
+      value: Cena Oddania
+      objectReference: {fileID: 0}
+    - target: {fileID: 5243975830995659107, guid: f7a8918a29a180b45ad1267ee486aec1, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: de9a2bcdb85eec147aefbb2ea9fec481, type: 2}
+    - target: {fileID: 5612258448526367677, guid: f7a8918a29a180b45ad1267ee486aec1, type: 3}
+      propertyPath: m_text
+      value: Patrycja Krzykawska
+      objectReference: {fileID: 0}
+    - target: {fileID: 5832030177178019224, guid: f7a8918a29a180b45ad1267ee486aec1, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -13
+      objectReference: {fileID: 0}
+    - target: {fileID: 8245616402808201394, guid: f7a8918a29a180b45ad1267ee486aec1, type: 3}
+      propertyPath: m_Name
+      value: Frame_100x70_P (3) Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 8335825389890226126, guid: f7a8918a29a180b45ad1267ee486aec1, type: 3}
+      propertyPath: m_text
+      value: "Obraz przedstawia tajemnicz\u0105 kobiet\u0119 trzymaj\u0105c\u0105
+        w d\u0142oni wyrwane serce - symbol utraty, po\u015Bwi\u0119cenia i emocjonalnego
+        b\xF3lu. Dzie\u0142o nie pokazuje dos\u0142ownej przemocy, lecz emocjonalny
+        ci\u0119\u017Car zwi\u0105zany z mi\u0142o\u015Bci\u0105, strat\u0105 i oddaniem
+        siebie drugiemu cz\u0142owiekowi. Ka\u017Cdy element kompozycji pozostawia
+        widzowi przestrze\u0144 do w\u0142asnej interpretacji uczu\u0107 ukrytych
+        za spojrzeniem bohaterki."
+      objectReference: {fileID: 0}
+    - target: {fileID: 8692017724123929766, guid: f7a8918a29a180b45ad1267ee486aec1, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.892
+      objectReference: {fileID: 0}
+    - target: {fileID: 8692017724123929766, guid: f7a8918a29a180b45ad1267ee486aec1, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.346
+      objectReference: {fileID: 0}
+    - target: {fileID: 8692017724123929766, guid: f7a8918a29a180b45ad1267ee486aec1, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 4.314
+      objectReference: {fileID: 0}
+    - target: {fileID: 8692017724123929766, guid: f7a8918a29a180b45ad1267ee486aec1, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8692017724123929766, guid: f7a8918a29a180b45ad1267ee486aec1, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8692017724123929766, guid: f7a8918a29a180b45ad1267ee486aec1, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8692017724123929766, guid: f7a8918a29a180b45ad1267ee486aec1, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8692017724123929766, guid: f7a8918a29a180b45ad1267ee486aec1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8692017724123929766, guid: f7a8918a29a180b45ad1267ee486aec1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8692017724123929766, guid: f7a8918a29a180b45ad1267ee486aec1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: f7a8918a29a180b45ad1267ee486aec1, type: 3}
